@@ -1,0 +1,22 @@
+Voxelize Progress:
+
+[ ] Implement Game Rendering
+    [ ] Implement Chunk Rendering
+        [ ] Implement Chunk Inside Rendering
+        [ ] Implement Chunk Inbetween Rendering
+        [ ] Implement Custom Block Shape Rendering
+    [ ] Implement Texture Rendering Struct For All In Game Texture Types
+        [X] Implement Block Face Textures
+    [X] Implement Camera
+        [X] Implement cglm Camera Math
+        [X] Implement WASD, Shift, Space, Caps Lock (speed up & down)
+        [X] Implement Mouse
+    [X] Implement Shaders
+        [X] Implement VBO Decompression
+
+[ ] Implement Game Logic
+    [X] Implement Chunks Storage
+    [X] Implement Chunk Block Storage
+
+[ ] Implement Game Window
+    [X] Implement Basic Window Closing
